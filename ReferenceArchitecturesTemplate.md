@@ -13,14 +13,14 @@ _Your article can have only one **H1 heading (#)**, which is the article title. 
 
 _This template is specific to **Reference Architectures**, a set of recommended architectures for Azure. Each architecture includes recommended practices, along with considerations for scalability, availability, manageability, and security. Most also include a deployable solution. Your article should be broken down into eight subheadings (H2, ## in markdown)--Architecture diagram, Recommendations, Scalability considerations, Availability considerations, Manageability considerations, Security considerations, Solution deployment, and Next steps. The H2 headings and descriptions are included in this template. If you need to create a new heading under one of the H2 headings, use an H3 heading (###)._
 
-**Completing the metadata:**_
+_**Completing the metadata:**_
 _This section provides guidance on completing the metadata section at the top of this template. Update the placeholder text based on the following guidance:_
-- _**title:** Use the H1 (#) title of your article from the top of this section. Both titles should be identical._
-- _**description:** Provide a brief summary of you article. This is the description that appears in search engine results, so ensure the summary is clear and concise and attracts your intended audience._
+- _**title:** Use the H1 (#) title of your article from the top of this section. Both titles should be identical. Maximum recommended length is 60 characters._
+- _**description:** Provide a brief summary of your article. This is the description that appears in search engine results, so ensure the summary is clear and concise and attracts your intended audience. Maximum recommended length is 150-160 characters._
 - _**keywords:** Add a comma-separated list of key concepts and terms from your article. These are the words your intended audience will submit in a search engine._
 - _**ms.date:** Enter the date in mm/dd/yyyy format, as shown in the metadata field. Initially this should be the date your article is published. After publication, this field should be refreshed whenever the article is updated so readers can see that the content is fresh._
 - _**pnp.series.title:** Identity Management is always the correct patterns and practices series title for this template. Do not change._
-- _**pnp.pattern.categories:** Review the bracketed list that follows and delete all categories that don't apply to your article: [availability, data-management, design-implementation, messaging, management-monitoring, performance-scalability, resiliency, security]. Copye and paste the final bracketed list into the metadata section._
+- _**pnp.pattern.categories:** Review the bracketed list that follows and delete all categories that don't apply to your article: [availability, data-management, design-implementation, messaging, management-monitoring, performance-scalability, resiliency, security]. Copy and paste the final bracketed list into the metadata section._
 
 ## Architecture diagram
 
